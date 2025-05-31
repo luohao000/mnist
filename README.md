@@ -12,8 +12,8 @@
 
 可以从 cnn_model.pth 中加载模型，支持自己手写数字，让该模型识别，效果如下图所示
 
-![](./pic1.png)
-![](./pic2.png)
+![效果演示](./pic1.png)
+![效果演示](./pic2.png)
 
 ### mnist_fnn.py
 
